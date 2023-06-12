@@ -1,5 +1,5 @@
 # TrueCallerScraper
-<img width="590" alt="image" src="https://github.com/ajtazer/TrueCallerScraper/assets/37796611/9203c37b-4030-4a3a-8f19-44949263fd52">
+<img width="350" alt="image" src="https://github.com/ajtazer/TrueCallerScraper/assets/37796611/9203c37b-4030-4a3a-8f19-44949263fd52">
 
 TrueCallerScraper is a Python script that automates the extraction of profile names from the TrueCaller app using ADB (Android Debug Bridge) and OCR (Optical Character Recognition).
 
