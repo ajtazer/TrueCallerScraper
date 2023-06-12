@@ -35,6 +35,8 @@ Note: Setting up ADB is outside the scope of this guide, and it's important to h
 
 ## Usage
 
+[Watch the TrueCallerScraper Demo Video](https://youtu.be/oKsOD9bKexw)
+
 1. Connect your Android device to your computer and ensure that USB debugging is enabled.
 
 2. Open the TrueCaller app on your Android device and navigate to the desired chat or search page.
