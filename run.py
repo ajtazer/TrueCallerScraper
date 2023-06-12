@@ -13,7 +13,7 @@ for number in phone_numbers:
     time.sleep(1)
     subprocess.run(['adb', 'shell', 'input', 'tap', '558', '1307'])
     time.sleep(1)
-    screenshot_path = "/Users/tazer/Desktop/truecaller_ss/{0}.png".format(number)
+    screenshot_path = "truecaller_ss/{0}.png".format(number)
     subprocess.run(['adb', 'shell', 'screencap', '/sdcard/screenshot.png'])
     subprocess.run(['adb', 'pull', '/sdcard/screenshot.png', screenshot_path])
     print("Screenshot saved:", screenshot_path)
