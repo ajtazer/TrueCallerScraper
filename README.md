@@ -1,4 +1,5 @@
 # TrueCallerScraper
+<img width="350" alt="image" src="https://github.com/ajtazer/TrueCallerScraper/assets/37796611/9203c37b-4030-4a3a-8f19-44949263fd52">
 
 TrueCallerScraper is a Python script that automates the extraction of profile names from the TrueCaller app using ADB (Android Debug Bridge) and OCR (Optical Character Recognition).
 
@@ -27,12 +28,14 @@ To run this script, you need to have the following tools and packages installed:
    pip install -r requirements.txt
    ```
 
-3. Ensure that ADB (Android Debug Bridge) is properly installed and set up on your machine. If you haven't installed ADB yet, you can refer to external sources like XDA Developers for detailed instructions on installing ADB for your specific operating system.
+3. Ensure that ADB (Android Debug Bridge) is properly installed and set up on your machine. If you haven't installed ADB yet, you can refer to external sources like [XDA Developers for detailed instructions](https://www.xda-developers.com/install-adb-windows-macos-linux/) on installing ADB for your specific operating system.
 
 Note: Setting up ADB is outside the scope of this guide, and it's important to have ADB properly installed and configured before running the TrueCallerScraper script.
 
 
 ## Usage
+
+[Watch the TrueCallerScraper Demo Video](https://youtu.be/oKsOD9bKexw)
 
 1. Connect your Android device to your computer and ensure that USB debugging is enabled.
 
