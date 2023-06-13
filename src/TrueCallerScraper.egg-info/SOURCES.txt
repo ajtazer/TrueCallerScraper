@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+src/TrueCallerScraper.egg-info/PKG-INFO
+src/TrueCallerScraper.egg-info/SOURCES.txt
+src/TrueCallerScraper.egg-info/dependency_links.txt
+src/TrueCallerScraper.egg-info/top_level.txt
